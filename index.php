@@ -1,5 +1,5 @@
 <?php
-echo 'xx';
+echo 'tichbede';
 echo 'kaka';
 echo 'kaka2';
 ?>
